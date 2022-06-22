@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HYSTRIX-DASHBOARD
+    name: CONFIG-SERVER
   cloud:
     config:
       enabled: true
